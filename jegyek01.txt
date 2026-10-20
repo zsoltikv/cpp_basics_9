@@ -1,0 +1,8 @@
+5 Feri 3
+3 Lajos 4
+5 Zoli 5
+4 Erika 2
+1 Kevin 3
+3 Evelin 3
+1 Egon 1
+5 Emese 5

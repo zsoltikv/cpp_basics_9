@@ -1,0 +1,8 @@
+Feri  5  3
+Lajos  3  4
+Zoli  5  5
+Erika  4  2
+Kevin  1  3
+Evelin  3  3
+Egon  1  1
+Emese  5  5
